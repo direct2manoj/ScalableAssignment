@@ -5,12 +5,11 @@ This project will provide functionality for School related services such as stud
 
 ![image](https://github.com/user-attachments/assets/f897b811-dd85-4d0a-aa79-fcd0f9cf889f)
 
-**List of the technologies, frameworks and tools used:
-**
+**List of the technologies, frameworks and tools used:**
 
-Java 8
-IntelliJ IDEA IDE
-Spring Boot and dependencies
-MySQL database
-POSTMAN testing tool
+Java 8, 
+IntelliJ IDEA IDE, 
+Spring Boot and dependencies, 
+MySQL database, 
+POSTMAN testing tool, 
 Feign Client for microservice communication
